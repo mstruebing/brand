@@ -19,7 +19,6 @@ const config = {
 		success: '#00a338',
 		warn: '#ff8700',
 		error: '#ff460d',
-		placeholder: '#5B5B5B'
 	},
 	fonts: {
 		headings: {
